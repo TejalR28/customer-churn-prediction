@@ -1,10 +1,16 @@
 # Customer Churn Prediction
 
-A machine learning project to predict customer churn in telecom companies using Python and Streamlit.
+## 📌 Overview
+
+This project predicts whether a customer is likely to churn using machine learning techniques. It helps businesses proactively identify at-risk customers and take retention actions. The model analyzes customer behavior and historical data to generate predictions, improving decision-making and reducing revenue loss.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
+
+## ❗ Problem Statement
+
+Customer churn is a critical problem for subscription-based businesses. Retaining existing customers is more cost-effective than acquiring new ones.This project aims to build a predictive model that identifies customers likely to churn, enabling timely intervention.
 
 ## 🎥 Demo
 
